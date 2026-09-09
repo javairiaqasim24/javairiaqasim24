@@ -55,7 +55,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+
 
 ### Certifications & programs
 
@@ -65,13 +65,6 @@
 
 ---
 
-### GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javairiaqasim24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javairiaqasim24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 <p align="center">Open to research collaborations and AI/ML internships 🚀</p>
